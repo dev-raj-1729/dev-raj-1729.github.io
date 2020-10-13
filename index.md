@@ -1,3 +1,7 @@
+# This is a big heading
+## This is a small heading
+### This is a smaller heading
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dev-raj-1729/dev-raj-1729.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
